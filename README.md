@@ -48,6 +48,12 @@ pip install streamlit
 ```bash
 streamlit run game.py
 ```
+
+## 🌐 Deployment  
+
+The game is live and playable at:  
+🔗 [https://buttongame.streamlit.app/](https://buttongame.streamlit.app/)
+
 ## 📜 Rules Summary
 
 - **Strategic Selection**: Choose numbers carefully to stay close to the average  
@@ -74,5 +80,6 @@ Contributions welcome! Please:
 ## 📄 License  
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
